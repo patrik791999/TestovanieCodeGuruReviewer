@@ -1,0 +1,7 @@
+analysis:
+  enabled_checks:
+    - ResourceLeaks
+    - Security
+    - CodeQuality
+    - ConcurrencyIssues
+    - AWSSpecificIssues
